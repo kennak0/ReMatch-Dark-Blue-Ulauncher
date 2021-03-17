@@ -1,4 +1,4 @@
-# ReMatch Dark Blue
+# ReMatch Nord
 
 Tema oscuro para Ulauncher inspirado en el tema Matcha Dark Azul de Manjaro Xfce.
 
